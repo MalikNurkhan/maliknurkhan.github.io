@@ -1,0 +1,8 @@
+.pagination {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.pagination a {
+    border: none;
+}
